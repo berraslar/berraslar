@@ -67,11 +67,6 @@ Backend features for CRM applications with Laravel and PostgreSQL, third-party A
 - **Google Data Analytics Professional Certificate** — Coursera *(in progress)*
 - **CyberStart 2.0** — IBM SkillsBuild × Kodluyoruz *(completed, Aug 2026)*
 
-## 📊 GitHub Stats
-
-![Berra's GitHub stats](https://github-readme-stats.vercel.app/api?username=berraslar&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berraslar&layout=compact&hide_border=true)
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/berra-salar-07483421b)
