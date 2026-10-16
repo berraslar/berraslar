@@ -24,6 +24,7 @@ Backend features for CRM applications with Laravel and PostgreSQL, third-party A
 
 | Project | Description | Stack |
 |---|---|---|
+| [**JobTrack**](https://github.com/berraslar/jobtrack) | Job application tracker with a one-click bookmarklet that imports postings from LinkedIn, Kariyer.net and Youthall, AI-tailored one-page CVs with PII masking and fabrication checks, Kanban and an analytics dashboard; PostgreSQL row-level security and a CI pipeline with SAST, DAST and container scanning | TypeScript · React · Fastify · PostgreSQL · Docker · Gemini API |
 | [**emissiON**](https://github.com/berraslar/emissiON) | AI carbon tracking and sustainability platform with an OCR-based invoice analysis pipeline, 15+ REST APIs, and RBAC | Node.js · Express · PostgreSQL · OpenAI API · Docker |
 | [**fullstack-ai-chat**](https://github.com/berraslar/fullstack-ai-chat) | AI chat app with web and mobile clients on a .NET backend | React · React Native · .NET · Hugging Face |
 | [**pulsefit-app-usage-analysis**](https://github.com/berraslar/pulsefit-app-usage-analysis) | 90-day usage data for a fitness app: generation, cleaning, and analysis | Python |
